@@ -14,9 +14,6 @@
           <article class="col1">
             <div class="pad_left1">
               <h2>Welcome to Our Center</h2>
-              <p class="font2">Learn Center is one of free website templates created by <span>TemplateMonster.com team</span></p>
-              <p><strong>Learn Center Template</strong> is optimized for 1024X768 screen resolution. It’s also XHTML &amp; CSS valid. This website template has several pages: <a href="courses.html">Courses</a>, <a href="programs.html">Programs</a>, <a href="teachers.html">Teachers</a>, <a href="admissions.html">Admissions</a>, <a href="contacts.html">Contacts</a> (note that contact us form – doesn’t work).</p>
-           	
             <div class="pad_left1">
               <h2>Individual Approach to Education!</h2>
             </div>
